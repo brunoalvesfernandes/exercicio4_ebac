@@ -107,19 +107,19 @@ section h2 {
 }
 
 #entertainment {
-    background-color: rgba(0, 217, 255, 0.295);
-}
-
-#entertainment .articles article a {
-    background-color: rgba(0, 255, 191, 0.664);
-}
-
-#technology {
     background-color: rgba(225, 0, 255, 0.295);
 }
 
-#technology .articles article a {
+#entertainment .articles article a {
     background-color: rgba(255, 0, 76, 0.664);
+}
+
+#technology {
+    background-color: rgba(0, 217, 255, 0.295);
+}
+
+#technology .articles article a {
+    background-color: rgba(0, 255, 191, 0.664);
 }
 
 .back-to-top {
